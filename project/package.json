@@ -8,7 +8,7 @@
     "build": "vite build",
     "lint": "eslint .",
     "preview": "vite preview",
-    "start": "vite preview"  // Este é o comando para iniciar a aplicação no modo produção
+    "start": "vite preview"
   },
   "dependencies": {
     "@supabase/supabase-js": "^2.39.7",
