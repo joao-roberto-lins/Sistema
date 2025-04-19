@@ -4,11 +4,11 @@
   "version": "0.0.0",
   "type": "module",
   "scripts": {
-    "dev": "vite",
-    "build": "vite build",
-    "lint": "eslint .",
-    "preview": "vite preview",
-    "start": "vite preview"
+    "dev": "vite",                  // Comando para desenvolvimento
+    "build": "vite build",          // Comando para compilar para produção
+    "lint": "eslint .",             // Comando de linting
+    "preview": "vite preview",      // Comando para preview de produção
+    "start": "vite preview"         // Comando para rodar a aplicação em produção
   },
   "dependencies": {
     "@supabase/supabase-js": "^2.39.7",
@@ -33,4 +33,3 @@
     "vite": "^5.4.2"
   }
 }
-
