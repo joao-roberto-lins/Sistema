@@ -8,7 +8,7 @@
     "build": "vite build",
     "lint": "eslint .",
     "preview": "vite preview",
-    "start": "vite preview"
+    "start": "vite preview"  // Este comando será utilizado pelo Render para iniciar o aplicativo em produção
   },
   "dependencies": {
     "@supabase/supabase-js": "^2.39.7",
